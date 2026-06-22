@@ -1,8 +1,9 @@
 # 今日食单 · Seasonal Home-cooking Recommendation 
+- H5 Live URL: https://chow-ideas.lovable.app
 
 ## 中文版介绍
 
-**今日食单**是一款融合中华传统二十四节气智慧与现代气象数据的智能家常菜谱推荐应用。它根据中国农历的节气、七十二候物候特征，结合用户所在地的实时天气与地理位置，精准推荐最应季的本地家常菜。
+中国古人说天人相应、不食不时。**今日食单**是一款融合中华传统二十四节气智慧与现代气象数据的智能家常菜谱推荐应用。它根据中国农历的节气、七十二候物候特征，结合用户所在地的实时天气与地理位置，精准推荐最应季的本地家常菜。
 
 核心特色：
 - **节气驱动**：基于二十四节气和七十二候物候（如「反舌无声」、「鹿角解」等），推荐顺应天时的食材与菜谱
@@ -17,7 +18,7 @@
 
 ## English Introduction
 
-This is an intelligent seasonal home-cooking recommendation app that blends traditional Chinese 24 Solar Terms wisdom with modern meteorological data. Based on the lunar calendar's solar terms and 72 phenological phases, it recommends the most seasonally appropriate local dishes according to your real-time weather and geographic location.
+The ancient Chinese taught that humanity resonates with nature, and that one should not eat foods that are out of season.This is an intelligent seasonal home-cooking recommendation app that blends traditional Chinese 24 Solar Terms wisdom with modern meteorological data. Based on the lunar calendar's solar terms and 72 phenological phases, it recommends the most seasonally appropriate local dishes according to your real-time weather and geographic location.
 
 Key Features:
 - **Solar-Term Driven**: Rooted in the 24 Solar Terms and 72 phenological phases (e.g., "Silent Thrush", "Deer Antlers Shed"), recommending ingredients and dishes that follow nature's timing
