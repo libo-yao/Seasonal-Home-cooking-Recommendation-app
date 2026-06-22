@@ -1,4 +1,4 @@
-# 今日食单 · Chow Ideas
+# 今日食单 · Seasonal Home-cooking Recommendation 
 
 ## 中文版介绍
 
@@ -17,7 +17,7 @@
 
 ## English Introduction
 
-**Chow Ideas** is an intelligent seasonal home-cooking recommendation app that blends traditional Chinese 24 Solar Terms wisdom with modern meteorological data. Based on the lunar calendar's solar terms and 72 phenological phases, it recommends the most seasonally appropriate local dishes according to your real-time weather and geographic location.
+This is an intelligent seasonal home-cooking recommendation app that blends traditional Chinese 24 Solar Terms wisdom with modern meteorological data. Based on the lunar calendar's solar terms and 72 phenological phases, it recommends the most seasonally appropriate local dishes according to your real-time weather and geographic location.
 
 Key Features:
 - **Solar-Term Driven**: Rooted in the 24 Solar Terms and 72 phenological phases (e.g., "Silent Thrush", "Deer Antlers Shed"), recommending ingredients and dishes that follow nature's timing
